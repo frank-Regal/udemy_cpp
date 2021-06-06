@@ -13,8 +13,8 @@ int main() {
     cout << "Vector1 element 2: " << vector1.at(1) << endl;
     cout << "Size of Vector1: " << vector1.size() << endl;
     
-    vector2.push_back(100);
-    vector2.push_back(200);
+    vector2.push_back(500);
+    vector2.push_back(600);
     
     cout << "\nVector2 element 1: " << vector2.at(0) << endl;
     cout << "Vector2 element 2: " << vector2.at(1) << endl;
@@ -30,7 +30,7 @@ int main() {
     cout << "\nVector_2d row 2 elements: " << vector_2d.at(1).at(0) << endl;
     cout << "Vector_2d row 2 elements: " << vector_2d.at(1).at(1) << endl;
     
-    vector1.at(0) = 5000;
+    vector1.at(0) = 3000;
     
     cout << "\nVector_2d row 1 elements: " << vector_2d.at(0).at(0) << endl;
     cout << "Vector_2d row 1 elements: " << vector_2d.at(0).at(1) << endl;
@@ -40,6 +40,7 @@ int main() {
     
     cout << "\nVector1 element 1: " << vector1.at(0) << endl;
     cout << "Vector1 element 2: " << vector1.at(1) << endl;
+    cout << "Vector1 Size: " << vector1.size() << endl;
     
     return 0;
 }
