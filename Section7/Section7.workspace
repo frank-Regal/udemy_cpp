@@ -2,7 +2,7 @@
 <CodeLite_Workspace Name="Section7" Database="" Version="10000">
   <Project Name="VectorsArraysChallenge" Path="VectorsArraysChallenge/VectorsArraysChallenge.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="yes">
+    <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
       <Project Name="VectorsArraysChallenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>

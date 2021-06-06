@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section8" Database="" Version="10000">
+  <Project Name="lectures" Path="lectures/lectures.project" Active="No"/>
+  <Project Name="euros" Path="euros/euros.project" Active="No"/>
+  <Project Name="incrementDecrement" Path="incrementDecrement/incrementDecrement.project" Active="No"/>
+  <Project Name="mixedExpressions" Path="mixedExpressions/mixedExpressions.project" Active="No"/>
+  <Project Name="section8Challenge" Path="section8Challenge/section8Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="lectures" ConfigName="Debug"/>
+      <Project Name="euros" ConfigName="Debug"/>
+      <Project Name="incrementDecrement" ConfigName="Debug"/>
+      <Project Name="mixedExpressions" ConfigName="Debug"/>
+      <Project Name="section8Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="lectures" ConfigName="Release"/>
+      <Project Name="euros" ConfigName="Release"/>
+      <Project Name="incrementDecrement" ConfigName="Release"/>
+      <Project Name="mixedExpressions" ConfigName="Release"/>
+      <Project Name="section8Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="F:\03.Projects\cppClass\Section7\Section7.workspace">
+<Session Name="/home/fregal/class/cpp_udemyClass/Section7/Section7.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="F:\03.Projects\cppClass\Section7\Section7.workspace" Name="m_workspaceName"/>
+  <wxString Value="/home/fregal/class/cpp_udemyClass/Section7/Section7.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="F:\03.Projects\cppClass\Section7\VectorsArraysChallenge\main.cpp" Name="FileName"/>
-      <int Value="16" Name="FirstVisibleLine"/>
-      <int Value="28" Name="CurrentLine"/>
+      <wxString Value="/home/fregal/class/cpp_udemyClass/Section7/VectorsArraysChallenge/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="21" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
