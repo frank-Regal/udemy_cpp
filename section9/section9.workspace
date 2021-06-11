@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="section9" Database="" Version="10000">
   <Project Name="lectureScripts" Path="lectureScripts/lectureScripts.project" Active="Yes"/>
+  <Project Name="grades" Path="grades/grades.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="lectureScripts" ConfigName="Debug"/>
+      <Project Name="grades" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="lectureScripts" ConfigName="Release"/>
+      <Project Name="grades" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

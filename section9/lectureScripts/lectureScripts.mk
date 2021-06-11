@@ -13,7 +13,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Frank Regal
-Date                   :=06/06/21
+Date                   :=09/06/21
 CodeLitePath           :=/home/fregal/.codelite
 LinkerName             :=/bin/x86_64-linux-gnu-g++
 SharedObjectLinkerName :=/bin/x86_64-linux-gnu-g++ -shared -fPIC
@@ -60,7 +60,7 @@ AS       := /bin/x86_64-linux-gnu-as
 ## User defined environment variables
 ##
 CodeLiteDir:=/usr/share/codelite
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(ObjectSuffix) 
 
 
 
@@ -96,6 +96,12 @@ $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp
 	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/fregal/class/cpp_udemyClass/section9/lectureScripts/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
+
+$(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(ObjectSuffix): ../Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp
+	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(DependSuffix) -MM ../Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/fregal/class/cpp_udemyClass/section9/Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(PreprocessSuffix): ../Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/up_Section-9-Controling-Program-Flow-Source-code_Section9_Shipping_main.cpp$(PreprocessSuffix) ../Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp
 
 
 -include $(IntermediateDirectory)/*$(DependSuffix)

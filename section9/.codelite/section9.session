@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/home/fregal/class/cpp_udemyClass/section9/section9.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="2" Name="m_selectedTab"/>
   <wxString Value="/home/fregal/class/cpp_udemyClass/section9/section9.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/home/fregal/class/cpp_udemyClass/section9/lectureScripts/main.cpp" Name="FileName"/>
-      <int Value="4" Name="FirstVisibleLine"/>
-      <int Value="22" Name="CurrentLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="34" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/fregal/class/cpp_udemyClass/section9/grades/main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="26" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/fregal/class/cpp_udemyClass/section9/Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp" Name="FileName"/>
+      <int Value="53" Name="FirstVisibleLine"/>
+      <int Value="66" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

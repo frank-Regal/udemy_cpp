@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppExamples" Database="" Version="10000">
+  <Project Name="switches" Path="switches/switches.project" Active="No"/>
+  <Project Name="conditional_operator" Path="conditional_operator/conditional_operator.project" Active="No"/>
+  <Project Name="looping_for_while_etc" Path="looping_for_while_etc/looping_for_while_etc.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="switches" ConfigName="Debug"/>
+      <Project Name="conditional_operator" ConfigName="Debug"/>
+      <Project Name="looping_for_while_etc" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="switches" ConfigName="Release"/>
+      <Project Name="conditional_operator" ConfigName="Release"/>
+      <Project Name="looping_for_while_etc" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

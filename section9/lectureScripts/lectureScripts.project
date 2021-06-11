@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Project Name="lectureScripts" Version="11000" InternalType="Console">
+  <VirtualDirectory Name="Shipping">
+    <File Name="../Section-9-Controling-Program-Flow-Source-code/Section9/Shipping/main.cpp"/>
+  </VirtualDirectory>
   <Description/>
   <Dependencies/>
   <Settings Type="Executable">
