@@ -1,0 +1,4 @@
+-ID:\GitHub\Classes\cpp_udemyClass\section12\section12\lecture_exercises
+-std=c++17
+-target
+

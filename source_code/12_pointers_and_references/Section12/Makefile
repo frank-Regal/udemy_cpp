@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ SimplePointers - Debug ]----------"
-	@cd "SimplePointers" && "$(MAKE)" -f  "SimplePointers.mk"
+	@echo "----------Building project:[ DynamicMemory - Debug ]----------"
+	@cd "DynamicMemory" && "$(MAKE)" -f  "DynamicMemory.mk"
 clean:
-	@echo "----------Cleaning project:[ SimplePointers - Debug ]----------"
-	@cd "SimplePointers" && "$(MAKE)" -f  "SimplePointers.mk" clean
+	@echo "----------Cleaning project:[ DynamicMemory - Debug ]----------"
+	@cd "DynamicMemory" && "$(MAKE)" -f  "DynamicMemory.mk" clean
