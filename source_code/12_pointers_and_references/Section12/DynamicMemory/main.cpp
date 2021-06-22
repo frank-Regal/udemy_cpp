@@ -21,6 +21,8 @@ int main() {
     temp_ptr = new double [size];
     cout << temp_ptr << endl;
     
+    delete [] temp_ptr; 
+    
     
 
 // Original Code:    
