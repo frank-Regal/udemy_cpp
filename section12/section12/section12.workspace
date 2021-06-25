@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="section12" Database="" Version="10000">
-  <Project Name="lecture_exercises" Path="lecture_exercises/lecture_exercises.project" Active="Yes"/>
+  <Project Name="lecture_exercises" Path="lecture_exercises/lecture_exercises.project" Active="No"/>
+  <Project Name="section12_challenge" Path="section12_challenge/section12_challenge.project" Active="No"/>
+  <Project Name="section12_challenge2" Path="section12_challenge2/section12_challenge2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="lecture_exercises" ConfigName="Debug"/>
+      <Project Name="section12_challenge" ConfigName="Debug"/>
+      <Project Name="section12_challenge2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="lecture_exercises" ConfigName="Release"/>
+      <Project Name="section12_challenge" ConfigName="Release"/>
+      <Project Name="section12_challenge2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
