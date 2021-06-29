@@ -10,9 +10,9 @@
   <Project Name="PassingPointers3" Path="PassingPointers3/PassingPointers3.project" Active="No"/>
   <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="No"/>
   <Project Name="References" Path="References/References.project" Active="No"/>
-  <Project Name="Debugger" Path="Debugger/Debugger.project" Active="Yes"/>
+  <Project Name="Debugger" Path="Debugger/Debugger.project" Active="No"/>
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
-  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
