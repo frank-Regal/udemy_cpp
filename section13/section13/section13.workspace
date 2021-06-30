@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="section13" Database="" Version="10000">
-  <Project Name="declare_class_and_object" Path="lecture_exercises/lecture_exercises.project" Active="Yes"/>
+  <Project Name="declare_class_and_object" Path="lecture_exercises/lecture_exercises.project" Active="No"/>
+  <Project Name="shallow_and_deep_copy_constructor" Path="shallow_and_deep_copy_constructor/shallow_and_deep_copy_constructor.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="declare_class_and_object" ConfigName="Debug"/>
+      <Project Name="shallow_and_deep_copy_constructor" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="declare_class_and_object" ConfigName="Release"/>
+      <Project Name="shallow_and_deep_copy_constructor" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

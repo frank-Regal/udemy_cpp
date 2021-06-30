@@ -29,6 +29,7 @@ get	C:\Users\regal\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T*
 
 
 
+main	D:\GitHub\Classes\cpp_udemyClass\section13\section13\shallow_and_deep_copy_constructor\main.cpp	/^int main() {$/;"	function	line:3	signature:()	returns:int 
 
 
 
