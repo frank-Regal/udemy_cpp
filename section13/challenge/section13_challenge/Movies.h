@@ -11,7 +11,8 @@
 class Movies
 {
     // Attributes
-    std::vector<std::string> vec;
+    std::vector<Movie> vec;
+    std::string movie_name;
     
 public:
     
@@ -21,6 +22,8 @@ public:
     bool add_movie(std::string name, std::string rating, int watched);
     bool increment_watched(std::string name);
     void display();
+    void set_name(std::string name);
+    Movie create_movie(Movie &name);
 
 };
 

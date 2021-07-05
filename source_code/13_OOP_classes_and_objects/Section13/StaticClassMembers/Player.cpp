@@ -9,6 +9,7 @@ Player::Player(std::string name_val, int health_val, int xp_val)
 
 Player::Player(const Player &source)
        : Player {source.name, source.health, source.xp}  {
+           std::cout << source << endl;
 }
 
 Player::~Player() {

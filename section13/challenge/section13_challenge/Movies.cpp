@@ -9,18 +9,15 @@ Movies::Movies()
     
 }
 
+
+Movie Movies::create_movie(Movie &name) {
+    
+}
+
 bool Movies::add_movie(std::string name, std::string rating, int watched) 
 {
-    std::cout << name << std::endl;
-    std::cout << rating << std::endl;
-    std::cout << watched << std::endl;
-    
-    //Movie new_movie (name, rating, watched);
-    //std::cout << "Added: " << name << " to Movie class" << endl;
-    
-    
-    
-    
+    //Movie movie_name {name, rating, watched};
+    //vec.push_back(movie_name.display());
     return true;
 }
 
@@ -37,12 +34,12 @@ void Movies::display()
     
     if (vec.size() == 0) 
         {
-        std::cout << "No Movies in List" << std::endl;
+        std::cout << "No Movies in List\n" << std::endl;
         }
         else 
             {
-            for (std::string c : vec)
-                std::cout << c << std::endl;
+            for (auto i {0}; i < vec.size(); ++i) {
+                std::cout << vec[i] << std::endl;
             }
 }
 

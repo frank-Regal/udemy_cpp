@@ -42,9 +42,9 @@ void increment_watched(Movies &movies, std::string name) {
  * ***************************************************************/
 void add_movie(Movies &movies, std::string name, std::string rating, int watched) {
     if (movies.add_movie(name,rating,watched)) {
-        std::cout << name << " added" << std::endl;
+        std::cout << name << " added\n" << std::endl;
     } else {
-        std::cout << name << " already exists" <<  std::endl;
+        std::cout << name << " already exists\n" <<  std::endl;
     }
 }
 
@@ -56,10 +56,10 @@ int main() {
 //  
 
     add_movie(my_movies, "Big", "PG-13",2);                 // OK
-//    add_movie(my_movies,"Star Wars", "PG",5);             // OK
-//    add_movie(my_movies,"Cinderella", "PG",7);            // OK
+    add_movie(my_movies,"Star Wars", "PG",5);             // OK
+    add_movie(my_movies,"Cinderella", "PG",7);            // OK
 //     
-//    my_movies.display();   // Big, Star Wars, Cinderella
+    my_movies.display();   // Big, Star Wars, Cinderella
 //    
 //    add_movie(my_movies,"Cinderella", "PG",7);            // Already exists
 //    add_movie(my_movies,"Ice Age", "PG",12);              // OK

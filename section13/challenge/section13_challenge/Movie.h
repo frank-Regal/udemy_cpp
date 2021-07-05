@@ -3,18 +3,21 @@
 
 #include <iostream>
 #include <string>
+#include <vector>
 
 class Movie
 {
     // Attributes
-    std::string name;
-    std::string rating;
-    int watched;
+    std::string title;
+    std::string stars;
+    int views;
+    std::vector<std::string> new_movie_entry;
     
 public:
     
     Movie();
-    Movie(std::string name, std::string rating, int watched);
+    Movie(std::string movie_name, std::string movie_rating, int num_times_watched);
+    std::string display();
     ~Movie();
     
 };
