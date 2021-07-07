@@ -1,0 +1,4 @@
+-ID:\GitHub\Classes\cpp_udemyClass\source_code\14_operator_overloading\Mystring-operator-functions
+-std=c++14
+-target
+
