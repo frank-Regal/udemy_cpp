@@ -13,7 +13,7 @@ CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=regal
-Date                   :=06/07/2021
+Date                   :=07/07/2021
 CodeLitePath           :="C:/Program Files/CodeLite"
 LinkerName             :="C:/Program Files/mingw-w64/mingw64/bin/g++.exe"
 SharedObjectLinkerName :="C:/Program Files/mingw-w64/mingw64/bin/g++.exe" -shared -fPIC
@@ -62,7 +62,7 @@ AS       := "C:/Program Files/mingw-w64/mingw64/bin/as.exe"
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Program Files\CodeLite
-Objects0=$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix) $(IntermediateDirectory)/Account_Util.cpp$(ObjectSuffix) $(IntermediateDirectory)/Savings_Account.cpp$(ObjectSuffix) $(IntermediateDirectory)/Account.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Checking_Accounts.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/Account_Util.cpp$(ObjectSuffix) $(IntermediateDirectory)/Savings_Account.cpp$(ObjectSuffix) $(IntermediateDirectory)/Account.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Checking_Accounts.cpp$(ObjectSuffix) $(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix) 
 
 
 
@@ -93,12 +93,6 @@ PreBuild:
 ##
 ## Objects
 ##
-$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix): Trust_Account.cpp
-	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/Trust_Account.cpp$(DependSuffix) -MM Trust_Account.cpp
-	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/GitHub/Classes/cpp_udemyClass/source_code/15_inheritence/Challenge/Trust_Account.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Trust_Account.cpp$(PreprocessSuffix): Trust_Account.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Trust_Account.cpp$(PreprocessSuffix) Trust_Account.cpp
-
 $(IntermediateDirectory)/Account_Util.cpp$(ObjectSuffix): Account_Util.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/Account_Util.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/Account_Util.cpp$(DependSuffix) -MM Account_Util.cpp
 	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/GitHub/Classes/cpp_udemyClass/source_code/15_inheritence/Challenge/Account_Util.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Account_Util.cpp$(ObjectSuffix) $(IncludePath)
@@ -128,6 +122,12 @@ $(IntermediateDirectory)/Checking_Accounts.cpp$(ObjectSuffix): Checking_Accounts
 	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/GitHub/Classes/cpp_udemyClass/source_code/15_inheritence/Challenge/Checking_Accounts.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Checking_Accounts.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/Checking_Accounts.cpp$(PreprocessSuffix): Checking_Accounts.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Checking_Accounts.cpp$(PreprocessSuffix) Checking_Accounts.cpp
+
+$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix): Trust_Account.cpp
+	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/Trust_Account.cpp$(DependSuffix) -MM Trust_Account.cpp
+	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/GitHub/Classes/cpp_udemyClass/source_code/15_inheritence/Challenge/Trust_Account.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Trust_Account.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Trust_Account.cpp$(PreprocessSuffix): Trust_Account.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Trust_Account.cpp$(PreprocessSuffix) Trust_Account.cpp
 
 
 -include $(IntermediateDirectory)/*$(DependSuffix)
