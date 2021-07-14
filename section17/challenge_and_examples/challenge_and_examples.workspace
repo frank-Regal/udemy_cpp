@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="challenge_and_examples" Database="" Version="10000">
+  <Project Name="practicing_unique_ptrs" Path="practicing_unique_ptrs/practicing_unique_ptrs.project" Active="No"/>
+  <Project Name="section_challenge" Path="section_challenge/section_challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="practicing_unique_ptrs" ConfigName="Debug"/>
+      <Project Name="section_challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="practicing_unique_ptrs" ConfigName="Release"/>
+      <Project Name="section_challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
