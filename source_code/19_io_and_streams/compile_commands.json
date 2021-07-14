@@ -1,0 +1,81 @@
+[{
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/CopyFile_2/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/CopyFile_2",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/CopyFile_2/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/CopyFile_2/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFile_1/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFile_1",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFile_1/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFile_1/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Fields/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Fields",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Fields/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Fields/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/StringStream/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/StringStream",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/StringStream/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/StringStream/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_1/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_1",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_1/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_1/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1_Solution/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1_Solution",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1_Solution/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1_Solution/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_1/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2_Solution/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2_Solution",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2_Solution/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_2_Solution/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_2/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_2",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_2/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_2/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3_Solution/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3_Solution",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3_Solution/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_3_Solution/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Boolean/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Boolean",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Boolean/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Boolean/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4_Solution/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4_Solution",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4_Solution/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4_Solution/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Base/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Base",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Base/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Base/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_4/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_4",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_4/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_4/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFIle_2/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFIle_2",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFIle_2/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/WriteFIle_2/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Floating/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Floating",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Floating/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Manip_Floating/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_3/main.cpp",
+  "directory": "/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_3",
+  "command": "clang  -c /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_3/main.cpp -o /home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/ReadFile_3/main.cpp.o  -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }]
