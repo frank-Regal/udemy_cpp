@@ -1,0 +1,7 @@
+_GLIBCXX_VERBOSE_LEVEL	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_VERBOSE_LEVEL 0$/;"	macro	line:37
+_GLIBCXX_CALL	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_CALL(__n)$/;"	macro	line:44
+_GLIBCXX_CALL	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_CALL(__n) \\$/;"	macro	line:47
+_GLIBCXX_SCALE_DOWN_FPU	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_SCALE_DOWN_FPU 0$/;"	macro	line:55
+_GLIBCXX_PARALLEL_ASSERTIONS	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_PARALLEL_ASSERTIONS (_GLIBCXX_ASSERTIONS+0)$/;"	macro	line:61
+_GLIBCXX_RANDOM_SHUFFLE_CONSIDER_L1	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_RANDOM_SHUFFLE_CONSIDER_L1 0$/;"	macro	line:68
+_GLIBCXX_RANDOM_SHUFFLE_CONSIDER_TLB	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\parallel\compiletime_settings.h	/^#define _GLIBCXX_RANDOM_SHUFFLE_CONSIDER_TLB 0$/;"	macro	line:74

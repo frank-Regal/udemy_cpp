@@ -1,1 +1,4 @@
--I/home/regal/class/cpp_class/cpp_udemyClass/source_code/19_io_and_streams/Challenge_4
+-ID:\GitHub\Classes\cpp_udemyClass\source_code\19_io_and_streams\Challenge_4
+-std=c++14
+-target
+
